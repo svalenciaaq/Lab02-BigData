@@ -144,15 +144,19 @@ Ejecutamos la primeras casillas que nos cargan las dependencias y datos y hace u
 ![lab13](img/lab13.PNG)
 
 Segunda casilla
+
 ![lab14](img/lab14.PNG)
 
 Tercera casilla
+
 ![lab15](img/lab15.PNG)
 
 Cuarta Casilla
+
 ![lab16](img/lab16.PNG)
 
 Quinta Casilla
+
 ![lab17](img/lab17.PNG)
 
 En este ultima casilla se encarga del guardado de los datos tanto en HDFS como en s3
